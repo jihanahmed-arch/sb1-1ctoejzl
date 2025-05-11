@@ -1,0 +1,74 @@
+{
+  "common": {
+    "search": "Search",
+    "cart": "Cart",
+    "profile": "Profile",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "myOrders": "My Orders",
+    "deleteAccount": "Delete Account"
+  },
+  "nav": {
+    "clothes": "Clothes",
+    "cosmetics": "Cosmetics",
+    "jewelry": "Jewelry",
+    "dresses": "Dresses",
+    "tops": "Tops",
+    "pants": "Pants",
+    "traditionalWear": "Traditional Wear",
+    "makeup": "Makeup",
+    "skincare": "Skincare",
+    "fragrances": "Fragrances",
+    "necklaces": "Necklaces",
+    "earrings": "Earrings",
+    "bracelets": "Bracelets",
+    "rings": "Rings"
+  },
+  "home": {
+    "hero": {
+      "title": "Summer Collection 2025",
+      "subtitle": "Explore the latest trends in summer fashion",
+      "buttonText": "Shop Now"
+    },
+    "categories": {
+      "title": "Shop by Category",
+      "clothes": "Clothes",
+      "cosmetics": "Cosmetics",
+      "jewelry": "Jewelry"
+    },
+    "featured": {
+      "title": "Featured Products",
+      "viewAll": "View All"
+    },
+    "newArrivals": {
+      "title": "New Arrivals",
+      "subtitle": "Discover our latest additions to the collection",
+      "viewAll": "View All New Arrivals"
+    }
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "size": "Size",
+    "quantity": "Quantity",
+    "description": "Description",
+    "reviews": "Reviews",
+    "shipping": "Shipping & Returns",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue Shopping",
+    "total": "Total",
+    "checkout": "Checkout",
+    "remove": "Remove"
+  },
+  "languageSelect": {
+    "title": "Select Your Language",
+    "description": "Choose your preferred language",
+    "english": "English",
+    "bengali": "বাংলা",
+    "continue": "Continue"
+  }
+}

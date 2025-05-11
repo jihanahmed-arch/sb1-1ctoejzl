@@ -1,0 +1,74 @@
+{
+  "common": {
+    "search": "অনুসন্ধান",
+    "cart": "কার্ট",
+    "profile": "প্রোফাইল",
+    "signIn": "সাইন ইন",
+    "signOut": "সাইন আউট",
+    "myOrders": "আমার অর্ডার",
+    "deleteAccount": "অ্যাকাউন্ট মুছুন"
+  },
+  "nav": {
+    "clothes": "পোশাক",
+    "cosmetics": "প্রসাধনী",
+    "jewelry": "গহনা",
+    "dresses": "ড্রেস",
+    "tops": "টপস",
+    "pants": "প্যান্ট",
+    "traditionalWear": "ঐতিহ্যবাহী পোশাক",
+    "makeup": "মেকআপ",
+    "skincare": "স্কিনকেয়ার",
+    "fragrances": "সুগন্ধি",
+    "necklaces": "নেকলেস",
+    "earrings": "ইয়ারিং",
+    "bracelets": "ব্রেসলেট",
+    "rings": "আংটি"
+  },
+  "home": {
+    "hero": {
+      "title": "গ্রীষ্মকালীন কালেকশন ২০২৫",
+      "subtitle": "গ্রীষ্মের ফ্যাশনে সর্বশেষ ট্রেন্ড দেখুন",
+      "buttonText": "কিনুন"
+    },
+    "categories": {
+      "title": "ক্যাটাগরি অনুযায়ী কিনুন",
+      "clothes": "পোশাক",
+      "cosmetics": "প্রসাধনী",
+      "jewelry": "গহনা"
+    },
+    "featured": {
+      "title": "বৈশিষ্ট্যযুক্ত পণ্য",
+      "viewAll": "সব দেখুন"
+    },
+    "newArrivals": {
+      "title": "নতুন আগমন",
+      "subtitle": "আমাদের কালেকশনে নতুন যোগ হওয়া পণ্য দেখুন",
+      "viewAll": "সব নতুন পণ্য দেখুন"
+    }
+  },
+  "product": {
+    "addToCart": "কার্টে যোগ করুন",
+    "size": "সাইজ",
+    "quantity": "পরিমাণ",
+    "description": "বিবরণ",
+    "reviews": "রিভিউ",
+    "shipping": "শিপিং ও রিটার্ন",
+    "inStock": "স্টকে আছে",
+    "outOfStock": "স্টকে নেই"
+  },
+  "cart": {
+    "title": "শপিং কার্ট",
+    "empty": "আপনার কার্ট খালি",
+    "continueShopping": "কেনাকাটা চালিয়ে যান",
+    "total": "মোট",
+    "checkout": "চেকআউট",
+    "remove": "সরান"
+  },
+  "languageSelect": {
+    "title": "আপনার ভাষা নির্বাচন করুন",
+    "description": "পছন্দের ভাষা বেছে নিন",
+    "english": "English",
+    "bengali": "বাংলা",
+    "continue": "এগিয়ে যান"
+  }
+}
